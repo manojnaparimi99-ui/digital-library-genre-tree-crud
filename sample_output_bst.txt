@@ -1,0 +1,58 @@
+Digital Library – BST Genre CRUD Sample Output
+
+--- Digital Library Menu ---
+1. Add Node
+2. Delete Node
+3. Update Node
+4. Search
+5. Display
+6. Exit
+Enter choice: 1
+Enter genre to add: Fiction
+
+Enter choice: 1
+Enter genre to add: Mystery
+
+Enter choice: 1
+Enter genre to add: Fantasy
+
+Enter choice: 1
+Enter genre to add: Science
+
+Enter choice: 5
+
+Library Genres:
+Fantasy
+Fiction
+Mystery
+Science
+
+Enter choice: 4
+Enter genre to search: Mystery
+Genre found!
+
+Enter choice: 3
+Enter old genre: Fantasy
+Enter new genre: Thriller
+Genre updated successfully!
+
+Enter choice: 5
+
+Library Genres:
+Fiction
+Mystery
+Science
+Thriller
+
+Enter choice: 2
+Enter genre to delete: Mystery
+
+Enter choice: 5
+
+Library Genres:
+Fiction
+Science
+Thriller
+
+Enter choice: 6
+Exiting program...
